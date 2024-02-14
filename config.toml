@@ -1,4 +1,4 @@
-baseurl = "localhost:1313/a"
+baseurl = "localhost:1313/"
 title = "Thursday"
 theme = "hugo-theme-console"
 languageCode = "en-us"
